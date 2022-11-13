@@ -1,5 +1,7 @@
-#Unit Tests, Integration Tests, E2E tests, snapshots test, screenshots tests.
+# Best testing practices.
 
-##Example testing popular cases.
+## Unit Tests, Integration Tests, E2E tests, Snapshots test, Screenshots tests.
 
-###Using: jest, react-testing-lib, webdriverIO + mocha, storybook + loki.
+## Examples of writing tests in popular cases.
+
+### Used testing technologies: jest, react-testing-lib, webdriverIO + mocha, storybook + loki.
